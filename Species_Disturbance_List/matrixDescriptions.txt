@@ -1,0 +1,421 @@
+Name
+0 % mortality disturbance matrix
+0.8 % mortality disturbance matrix
+1.2 % mortality disturbance matrix
+1.6 % mortality disturbance matrix
+10% Commercial thinning
+10% SW mortality disturbance matrix
+10.6 % mortality disturbance matrix
+11 % mortality disturbance matrix
+11.4 % mortality disturbance matrix
+13 % mortality disturbance matrix
+13.4 % mortality disturbance matrix
+15% Commercial thinning
+16.8 % mortality disturbance matrix
+17 % mortality disturbance matrix
+19 % mortality disturbance matrix
+19.2 % mortality disturbance matrix
+2.2 % mortality disturbance matrix
+2.4 % mortality disturbance matrix
+2.6 % mortality disturbance matrix
+2.8 % mortality disturbance matrix
+20 % mortality disturbance matrix
+20% Commercial thinning
+21.6 % mortality disturbance matrix
+22 % mortality disturbance matrix
+23.8 % mortality disturbance matrix
+24 % mortality disturbance matrix
+25% Commercial thinning
+29 % mortality disturbance matrix
+29.2 % mortality disturbance matrix
+3 % mortality disturbance matrix
+3.8 % mortality disturbance matrix
+30% Commercial thinning
+30% SW mortality disturbance matrix
+30.8 % mortality disturbance matrix
+31 % mortality disturbance matrix
+32.6 % mortality disturbance matrix
+33 % mortality disturbance matrix
+35% Commercial thinning
+4.2 % mortality disturbance matrix
+4.6 % mortality disturbance matrix
+40% Commercial thinning
+45% Commercial thinning
+5 % mortality disturbance matrix
+5% SW mortality disturbance matrix
+5.2 % mortality disturbance matrix
+50% Commercial thinning
+50% SW mortality disturbance matrix
+55% Commercial thinning
+6.6 % mortality disturbance matrix
+60% Commercial thinning
+65% Commercial thinning
+70% Commercial thinning
+75% Commercial thinning
+8.2 % mortality disturbance matrix
+8.8 % mortality disturbance matrix
+85% precommercial thinning
+9.2 % mortality disturbance matrix
+97% clearcut
+BASE 85% CC, 10% residue ON
+BASE 97% CC, 10% residue QC
+BioE 85% CC, 25% residue BC
+BioE 85% CC, 50% residue SK, NB, NS
+BioE 94% CC, 50% residue AB
+Burn only for All Eco Boundaries
+clearcut with 94% utilization rate
+Clearcut with slash-burn-Arctic Cordillera DM
+Clearcut with slash-burn-Atlantic Maritime DM
+Clearcut with slash-burn-Boreal Cordillera DM
+Clearcut with slash-burn-Boreal plains DM
+Clearcut with slash-burn-Boreal Shield East DM
+Clearcut with slash-burn-Boreal Shield West DM
+Clearcut with slash-burn-Hudson Plains DM
+Clearcut with slash-burn-Mixedwood Plains DM
+Clearcut with slash-burn-Montane Cordillera DM
+Clearcut with slash-burn-Northern Arctic DM
+Clearcut with slash-burn-Pacific Maritime DM
+Clearcut with slash-burn-Sourthern Arctic DM
+Clearcut with slash-burn-Subhumid Prairies DM
+Clearcut with slash-burn-Taiga Cordillera DM
+Clearcut with slash-burn-Taiga Plains DM
+Clearcut with slash-burn-Taiga Shield East DM
+Clearcut with slash-burn-Taiga Shield West DM
+Deforestation by Ice  for All Eco Boundaries
+Deforestation-hydro reservoir - Salvage and burn
+Deforestation-hydro reservoir-burn
+Deforestation-hydro reservoir-no salvage or burn 
+Deforestation-hydro reservoir-salvage and decay
+DOM Firewood Collection
+Firewood Collection-HW
+Firewood Collection-SW
+Flooding for All Eco Boundaries
+generic 10% mortality
+generic 15% mortality
+generic 20% mortality
+generic 25% mortality
+generic 30% mortality
+generic 35% mortality
+generic 40% mortality
+generic 45% mortality
+generic 5% mortality
+generic 50% mortality
+generic 55% mortality
+generic 60% mortality
+generic 65% mortality
+generic 70% mortality
+generic 75% mortality
+generic 80% mortality
+generic 85% mortality
+generic 90% mortality
+generic 95% mortality
+Hemlock Looper 32% mortality
+Hemlock Looper 4% mortality
+Hemlock Looper 70% mortality
+Newfoundland Harvest and Salvage Mixed
+No Stock Change Matrix #1
+Partial Disturbance Matrix #1
+Partial Disturbance Matrix #10
+Partial Disturbance Matrix #11
+Partial Disturbance Matrix #2
+Partial Disturbance Matrix #3
+Partial Disturbance Matrix #4
+Partial Disturbance Matrix #5
+Partial Disturbance Matrix #6
+Partial Disturbance Matrix #7
+Partial Disturbance Matrix #8
+Partial Disturbance Matrix #9
+planting
+roads and landings
+Salvage after fire matrix
+Salvage after insects matrix
+Salvage uprooting and burn for Atlantic Maritime
+Salvage uprooting and burn for Boreal Cordillera
+Salvage uprooting and burn for Boreal Plains
+Salvage uprooting and burn for Boreal Shield East
+Salvage uprooting and burn for Boreal Shield West
+Salvage uprooting and burn for Hudson Plains
+Salvage uprooting and burn for Mixedwood Plains
+Salvage uprooting and burn for Montane Cordillera
+Salvage uprooting and burn for Pacific Maritime
+Salvage uprooting and burn for Semiarid Prairies
+Salvage uprooting and burn for Subhumid Prairies
+Salvage uprooting and burn for Taiga Cordillera
+Salvage uprooting and burn for Taiga Plains
+Salvage uprooting and burn for Taiga Shield East
+Salvage uprooting and burn for Taiga Shield West
+Salvage uprooting and decay for All Eco Boundaries
+Slashburn following clearcut-Atlantic Maritime DM
+Slashburn following clearcut-Boreal Cordillera DM
+Slashburn following clearcut-Boreal plains DM
+Slashburn following clearcut-Boreal Shield East DM
+Slashburn following clearcut-Boreal Shield West DM
+Slashburn following clearcut-Hudson Plains DM
+Slashburn following clearcut-Mixedwood Plains DM
+Slashburn following clearcut-Montane Cordillera DM
+Slashburn following clearcut-Pacific Maritime DM
+Slashburn following clearcut-Subhumid Prairies DM
+Slashburn following clearcut-Taiga Cordillera DM
+Slashburn following clearcut-Taiga Plains DM
+Slashburn following clearcut-Taiga Shield East DM
+Slashburn following clearcut-Taiga Shield West DM
+Spruce Budworm in QC, Light annual defoliation, 6yr cumulative defoliation > 85%
+Spruce Budworm in QC, Light annual defoliation, 6yr cumulative defoliation 0-35%
+Spruce Budworm in QC, Light annual defoliation, 6yr cumulative defoliation 36-45%
+Spruce Budworm in QC, Light annual defoliation, 6yr cumulative defoliation 46-55%
+Spruce Budworm in QC, Light annual defoliation, 6yr cumulative defoliation 56-65%
+Spruce Budworm in QC, Light annual defoliation, 6yr cumulative defoliation 66-75%
+Spruce Budworm in QC, Light annual defoliation, 6yr cumulative defoliation 76-85%
+Spruce Budworm in QC, Moderate annual defoliation, 6yr cumulative defoliation > 85%
+Spruce Budworm in QC, Moderate annual defoliation, 6yr cumulative defoliation 0-35%
+Spruce Budworm in QC, Moderate annual defoliation, 6yr cumulative defoliation 36-45%
+Spruce Budworm in QC, Moderate annual defoliation, 6yr cumulative defoliation 46-55%
+Spruce Budworm in QC, Moderate annual defoliation, 6yr cumulative defoliation 56-65%
+Spruce Budworm in QC, Moderate annual defoliation, 6yr cumulative defoliation 66-75%
+Spruce Budworm in QC, Moderate annual defoliation, 6yr cumulative defoliation 76-85%
+Spruce Budworm in QC, Severe annual defoliation, 6yr cumulative defoliation > 85%
+Spruce Budworm in QC, Severe annual defoliation, 6yr cumulative defoliation 0-35%
+Spruce Budworm in QC, Severe annual defoliation, 6yr cumulative defoliation 36-45%
+Spruce Budworm in QC, Severe annual defoliation, 6yr cumulative defoliation 46-55%
+Spruce Budworm in QC, Severe annual defoliation, 6yr cumulative defoliation 56-65%
+Spruce Budworm in QC, Severe annual defoliation, 6yr cumulative defoliation 66-75%
+Spruce Budworm in QC, Severe annual defoliation, 6yr cumulative defoliation 76-85%
+Stand Replacing Matrix #1
+Stand Replacing Matrix #10
+Stand Replacing Matrix #11
+Stand Replacing Matrix #12
+Stand Replacing Matrix #13
+Stand Replacing Matrix #14
+Stand Replacing Matrix #15
+Stand Replacing Matrix #16
+Stand Replacing Matrix #17
+Stand Replacing Matrix #18
+Stand Replacing Matrix #19
+Stand Replacing Matrix #2
+Stand Replacing Matrix #20
+Stand Replacing Matrix #21
+Stand Replacing Matrix #22
+Stand Replacing Matrix #23
+Stand Replacing Matrix #24
+Stand Replacing Matrix #25
+Stand Replacing Matrix #26
+Stand Replacing Matrix #3
+Stand Replacing Matrix #4
+Stand Replacing Matrix #5
+Stand Replacing Matrix #6
+Stand Replacing Matrix #7
+Stand Replacing Matrix #8
+Stand Replacing Matrix #9
+Stand Replacing Matrix for Clearcut Harvest without Salavge
+Stand Replacing Natural Succession
+Uprooting and burn for All Eco Boundaries
+Uprooting and decay for All Eco Boundaries
+Wild Fire-Arctic Cordillera DM
+Wild Fire-Atlantic Maritime DM
+Wild Fire-Boreal Cordillera DM
+Wild Fire-Boreal plains DM
+Wild Fire-Boreal Shield East DM
+Wild Fire-Boreal Shield West DM
+Wild Fire-Hudson Plains DM
+Wild Fire-Mixedwood Plains DM
+Wild Fire-Montane Cordillera DM
+Wild Fire-Northern Arctic DM
+Wild Fire-Pacific Maritime DM
+Wild Fire-Prairies DM
+Wild Fire-Sourthern Arctic DM
+Wild Fire-Taiga Cordillera DM
+Wild Fire-Taiga Plains DM
+Wild Fire-Taiga Shield East DM
+Wild Fire-Taiga Shield West DM
+Wildfire for Alberta - Boreal Plains (NIR2007)
+Wildfire for Alberta - Boreal Plains (NIR2008)
+Wildfire for Alberta - Boreal Plains (NIR2010)
+Wildfire for Alberta - Boreal Plains (NIR2014)
+Wildfire for Alberta - Boreal Shield West (NIR2007)
+Wildfire for Alberta - Boreal Shield West (NIR2008)
+Wildfire for Alberta - Boreal Shield West (NIR2010)
+Wildfire for Alberta - Boreal Shield West (NIR2014)
+Wildfire for Alberta - Montane Cordillera (NIR2007)
+Wildfire for Alberta - Montane Cordillera (NIR2008)
+Wildfire for Alberta - Montane Cordillera (NIR2010)
+Wildfire for Alberta - Montane Cordillera (NIR2014)
+Wildfire for Alberta - Semi Arid Prairies (NIR2007)
+Wildfire for Alberta - Semi Arid Prairies (NIR2008)
+Wildfire for Alberta - Semi Arid Prairies (NIR2010)
+Wildfire for Alberta - Semi Arid Prairies (NIR2014)
+Wildfire for Alberta - Sub Humid Prairies (NIR2007)
+Wildfire for Alberta - Sub Humid Prairies (NIR2008)
+Wildfire for Alberta - Sub Humid Prairies (NIR2010)
+Wildfire for Alberta - Sub Humid Prairies (NIR2014)
+Wildfire for Alberta - Taiga Plains (NIR2007)
+Wildfire for Alberta - Taiga Plains (NIR2008)
+Wildfire for Alberta - Taiga Plains (NIR2010)
+Wildfire for Alberta - Taiga Plains (NIR2014)
+Wildfire for Alberta - Taiga Shield West (NIR2007)
+Wildfire for Alberta - Taiga Shield West (NIR2008)
+Wildfire for Alberta - Taiga Shield West (NIR2010)
+Wildfire for Alberta - Taiga Shield West (NIR2014)
+Wildfire for British Columbia - Boreal Cordillera (NIR_2017)
+Wildfire for British Columbia - Boreal Cordillera (NIR2007)
+Wildfire for British Columbia - Boreal Cordillera (NIR2008)
+Wildfire for British Columbia - Boreal Cordillera (NIR2010)
+Wildfire for British Columbia - Boreal Plains (NIR_2017)
+Wildfire for British Columbia - Boreal Plains (NIR2007)
+Wildfire for British Columbia - Boreal Plains (NIR2008)
+Wildfire for British Columbia - Boreal Plains (NIR2010)
+Wildfire for British Columbia - Montane Cordillera (NIR_2017)
+Wildfire for British Columbia - Montane Cordillera (NIR2008)
+Wildfire for British Columbia - Montane Cordillera (NIR2010)
+Wildfire for British Columbia - Montane Cordilleria (NIR2007)
+Wildfire for British Columbia - Pacific Maritime (NIR_2017)
+Wildfire for British Columbia - Pacific Maritime (NIR2007)
+Wildfire for British Columbia - Pacific Maritime (NIR2008)
+Wildfire for British Columbia - Pacific Maritime (NIR2010)
+Wildfire for British Columbia - Taiga Plains (NIR_2017)
+Wildfire for British Columbia - Taiga Plains (NIR2007)
+Wildfire for British Columbia - Taiga Plains (NIR2008)
+Wildfire for British Columbia - Taiga Plains (NIR2010)
+Wildfire for Labrador - Boreal Shield East (NIR2007)
+Wildfire for Labrador - Boreal Shield East (NIR2008)
+Wildfire for Labrador - Boreal Shield East (NIR2010)
+Wildfire for Labrador - Boreal Shield East (NIR2011)
+Wildfire for Labrador - Taiga Shield East (NIR2007)
+Wildfire for Labrador - Taiga Shield East (NIR2008)
+Wildfire for Labrador - Taiga Shield East (NIR2010)
+Wildfire for Labrador - Taiga Shield East (NIR2011)
+Wildfire for Manitoba - Boreal Plains (NIR2007)
+Wildfire for Manitoba - Boreal Plains (NIR2008)
+Wildfire for Manitoba - Boreal Plains (NIR2010)
+Wildfire for Manitoba - Boreal Plains (NIR2011)
+Wildfire for Manitoba - Boreal Shield West (NIR2007)
+Wildfire for Manitoba - Boreal Shield West (NIR2008)
+Wildfire for Manitoba - Boreal Shield West (NIR2010)
+Wildfire for Manitoba - Boreal Shield West (NIR2011)
+Wildfire for Manitoba - Hudson Plains (NIR2007)
+Wildfire for Manitoba - Hudson Plains (NIR2008)
+Wildfire for Manitoba - Hudson Plains (NIR2010)
+Wildfire for Manitoba - Hudson Plains (NIR2011)
+Wildfire for Manitoba - Sub Humid Prairies (NIR2007)
+Wildfire for Manitoba - Sub Humid Prairies (NIR2008)
+Wildfire for Manitoba - Sub Humid Prairies (NIR2010)
+Wildfire for Manitoba - Sub Humid Prairies (NIR2011)
+Wildfire for Manitoba - Taiga Shield West (NIR2007)
+Wildfire for Manitoba - Taiga Shield West (NIR2008)
+Wildfire for Manitoba - Taiga Shield West (NIR2010)
+Wildfire for Manitoba - Taiga Shield West (NIR2011)
+Wildfire for New Brunswick - Atlantic Maritimes (NIR2007)
+Wildfire for New Brunswick - Atlantic Maritimes (NIR2008)
+Wildfire for New Brunswick - Atlantic Maritimes (NIR2010)
+Wildfire for New Brunswick - Atlantic Maritimes (NIR2011)
+Wildfire for Newfoundland - Boreal Shield East (NIR2007)
+Wildfire for Newfoundland - Boreal Shield East (NIR2008)
+Wildfire for Newfoundland - Boreal Shield East (NIR2010)
+Wildfire for Newfoundland - Boreal Shield East (NIR2011)
+Wildfire for Northwest Territories - Boreal Cordillera (NIR2007)
+Wildfire for Northwest Territories - Boreal Cordillera (NIR2008)
+Wildfire for Northwest Territories - Boreal Cordillera (NIR2010)
+Wildfire for Northwest Territories - Boreal Cordillera (NIR2011)
+Wildfire for Northwest Territories - Boreal Plains (NIR2007)
+Wildfire for Northwest Territories - Boreal Plains (NIR2008)
+Wildfire for Northwest Territories - Boreal Plains (NIR2010)
+Wildfire for Northwest Territories - Boreal Plains (NIR2011)
+Wildfire for Northwest Territories - Taiga Cordillera (NIR2008)
+Wildfire for Northwest Territories - Taiga Cordillera (NIR2010)
+Wildfire for Northwest Territories - Taiga Cordillera (NIR2011)
+Wildfire for Northwest Territories - Taiga Plains (NIR2007)
+Wildfire for Northwest Territories - Taiga Plains (NIR2008)
+Wildfire for Northwest Territories - Taiga Plains (NIR2010)
+Wildfire for Northwest Territories - Taiga Plains (NIR2011)
+Wildfire for Northwest Territories - Taiga Shield West (NIR2007)
+Wildfire for Northwest Territories - Taiga Shield West (NIR2008)
+Wildfire for Northwest Territories - Taiga Shield West (NIR2010)
+Wildfire for Northwest Territories - Taiga Shield West (NIR2011)
+Wildfire for NorthwWest Territories - Taiga Cordillera (NIR2007)
+Wildfire for Nova Scotia - Atlantic Maritimes (NIR2007)
+Wildfire for Nova Scotia - Atlantic Maritimes (NIR2008)
+Wildfire for Nova Scotia - Atlantic Maritimes (NIR2010)
+Wildfire for Nova Scotia - Atlantic Maritimes (NIR2011)
+Wildfire for Nunavut - Hudson Plains (NIR2007)
+Wildfire for Nunavut - Hudson Plains (NIR2008)
+Wildfire for Nunavut - Hudson Plains (NIR2010)
+Wildfire for Nunavut - Hudson Plains (NIR2011)
+Wildfire for Nunavut - Taiga Shield West (NIR2007)
+Wildfire for Nunavut - Taiga Shield West (NIR2008)
+Wildfire for Nunavut - Taiga Shield West (NIR2010)
+Wildfire for Nunavut - Taiga Shield West (NIR2011)
+Wildfire for Ontario - Boreal Shield East (NIR2007)
+Wildfire for Ontario - Boreal Shield East (NIR2008)
+Wildfire for Ontario - Boreal Shield East (NIR2010)
+Wildfire for Ontario - Boreal Shield East (NIR2011)
+Wildfire for Ontario - Boreal Shield West (NIR2007)
+Wildfire for Ontario - Boreal Shield West (NIR2008)
+Wildfire for Ontario - Boreal Shield West (NIR2010)
+Wildfire for Ontario - Boreal Shield West (NIR2011)
+Wildfire for Ontario - Hudson Plains (NIR2007)
+Wildfire for Ontario - Hudson Plains (NIR2008)
+Wildfire for Ontario - Hudson Plains (NIR2010)
+Wildfire for Ontario - Hudson Plains (NIR2011)
+Wildfire for Ontario - Mixedwood Plains (NIR2007)
+Wildfire for Ontario - Mixedwood Plains (NIR2008)
+Wildfire for Ontario - Mixedwood Plains (NIR2010)
+Wildfire for Ontario - Mixedwood Plains (NIR2011)
+Wildfire for Prince Edward Island - Atlantic Maritime (NIR2007)
+Wildfire for Prince Edward Island - Atlantic Maritime (NIR2008)
+Wildfire for Prince Edward Island - Atlantic Maritime (NIR2010)
+Wildfire for Prince Edward Island - Atlantic Maritime (NIR2011)
+Wildfire for Quebec - Atlantic Maritimes (NIR2007)
+Wildfire for Quebec - Atlantic Maritimes (NIR2008)
+Wildfire for Quebec - Atlantic Maritimes (NIR2010)
+Wildfire for Quebec - Atlantic Maritimes (NIR2011)
+Wildfire for Quebec - Boreal Shield East (NIR2007)
+Wildfire for Quebec - Boreal Shield East (NIR2008)
+Wildfire for Quebec - Boreal Shield East (NIR2010)
+Wildfire for Quebec - Boreal Shield East (NIR2011)
+Wildfire for Quebec - Hudson Plains (NIR2007)
+Wildfire for Quebec - Hudson Plains (NIR2008)
+Wildfire for Quebec - Hudson Plains (NIR2010)
+Wildfire for Quebec - Hudson Plains (NIR2011)
+Wildfire for Quebec - Mixedwood Plains (NIR2007)
+Wildfire for Quebec - Mixedwood Plains (NIR2008)
+Wildfire for Quebec - Mixedwood Plains (NIR2010)
+Wildfire for Quebec - Mixedwood Plains (NIR2011)
+Wildfire for Quebec - Taiga Shield East (NIR2007)
+Wildfire for Quebec - Taiga Shield East (NIR2008)
+Wildfire for Quebec - Taiga Shield East (NIR2010)
+Wildfire for Quebec - Taiga Shield East (NIR2011)
+Wildfire for Saskatchewan - Boreal Plains (NIR2007)
+Wildfire for Saskatchewan - Boreal Plains (NIR2008)
+Wildfire for Saskatchewan - Boreal Plains (NIR2010)
+Wildfire for Saskatchewan - Boreal Plains (NIR2011)
+Wildfire for Saskatchewan - Boreal Shield West (NIR2007)
+Wildfire for Saskatchewan - Boreal Shield West (NIR2008)
+Wildfire for Saskatchewan - Boreal Shield West (NIR2010)
+Wildfire for Saskatchewan - Boreal Shield West (NIR2011)
+Wildfire for Saskatchewan - Semi Arid Prairies (NIR2007)
+Wildfire for Saskatchewan - Semi Arid Prairies (NIR2008)
+Wildfire for Saskatchewan - Semi Arid Prairies (NIR2010)
+Wildfire for Saskatchewan - Semi Arid Prairies (NIR2011)
+Wildfire for Saskatchewan - Sub Humid Prairies (NIR2007)
+Wildfire for Saskatchewan - Sub Humid Prairies (NIR2008)
+Wildfire for Saskatchewan - Sub Humid Prairies (NIR2010)
+Wildfire for Saskatchewan - Sub Humid Prairies (NIR2011)
+Wildfire for Saskatchewan - Taiga Shield West (NIR2007)
+Wildfire for Saskatchewan - Taiga Shield West (NIR2008)
+Wildfire for Saskatchewan - Taiga Shield West (NIR2010)
+Wildfire for Saskatchewan - Taiga Shield West (NIR2011)
+Wildfire for Yukon - Pacific Maritime (NIR2007)
+Wildfire for Yukon - Pacific Maritime (NIR2008)
+Wildfire for Yukon - Pacific Maritime (NIR2010)
+Wildfire for Yukon - Pacific Maritime (NIR2011)
+Wildfire for Yukon Territory - Boreal Cordillera (NIR2007)
+Wildfire for Yukon Territory - Boreal Cordillera (NIR2008)
+Wildfire for Yukon Territory - Boreal Cordillera (NIR2010)
+Wildfire for Yukon Territory - Boreal Cordillera (NIR2011)
+Wildfire for Yukon Territory - Taiga Cordillera (NIR2007)
+Wildfire for Yukon Territory - Taiga Cordillera (NIR2008)
+Wildfire for Yukon Territory - Taiga Cordillera (NIR2010)
+Wildfire for Yukon Territory - Taiga Cordillera (NIR2011)
+Wildfire for Yukon Territory - Taiga Plains (NIR2007)
+Wildfire for Yukon Territory - Taiga Plains (NIR2008)
+Wildfire for Yukon Territory - Taiga Plains (NIR2010)
+Wildfire for Yukon Territory - Taiga Plains (NIR2011)

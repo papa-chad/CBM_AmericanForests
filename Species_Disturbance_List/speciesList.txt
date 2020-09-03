@@ -1,0 +1,195 @@
+SpeciesTypeName
+Alaska paper birch
+Alder
+Alpine, amabilis and grand fir
+Alternate-leaf dogwood
+Amabilis fir
+Apple
+Arbutus
+Ash
+Austrian pine
+Balsam and alpine fir
+Balsam fir
+Balsam fir and spruce
+Balsam poplar
+Balsam poplar & black cottonwood
+Balsam poplar, largetooth aspen & cottonwood
+Basswood
+Beaked hazel
+Beech
+Bigleaf maple
+Birch
+Birch- Genus Type
+Bitter cherry
+Bitternut hickory
+Black and red spruce
+Black ash
+Black Cherry
+Black cottonwood
+Black maple
+Black oak
+Black spruce
+Black walnut
+Black willow
+Black-gum
+Blue ash
+Blue-beech
+Bur oak
+Butternut
+Carolina poplar
+Cedar
+Cedar and other conifers
+Cedar and other conifers- Genus Type
+Cherry
+Cherry birch
+Chestnut oak
+Chinquapin oak
+Choke cherry
+Common winterberry
+Crack willow
+Cucumber-tree
+Cypress
+Douglas-fir and Rocky Mountain Douglas-fir
+Douglas-fir- Genus Type
+Eastern cottonwood
+Eastern flowering dogwood
+Eastern hemlock
+Eastern redcedar
+Eastern white pine
+Eastern white-cedar
+Elm
+Engelmann spruce
+European larch
+European white poplar
+Fir
+Fir- Genus Type
+Flowering dogwood
+Garry oak
+Grand fir
+Gray birch
+Green ash
+Hackberry
+Harwood Forest Type
+Hawthorn
+Hemlock
+Hemlock- Genus Type
+Hickory
+Honey-locust
+Hybrid poplar
+Intolerant hardwoods
+Ironwood
+Jack and lodgepole pine hybrid
+Jack pine
+Jack, lodgepole and shore pine
+Japanese larch
+Juniper
+Kentucky coffee tree
+Larch- Genus Type
+Largetooth aspen
+Limber pine
+Lodgepole pine
+Lombardy poplar
+Lowland hardwoods (silver & red maple, white elm)
+Manitoba maple
+Maple
+Maple- Genus Type
+Missing Value- Genus Type
+Mixedwood
+Mountain hemlock
+Mountain maple
+Mountain paper birch
+Mountain-ash
+Mountain-holly
+Mugho pine
+Northern pin oak
+Northern red ash
+Norway maple
+Norway spruce
+Not Stocked
+Oak
+Oregon ash
+Other birch
+Other broad-leaved species- Genus Type
+Other hardwoods
+Other maple
+Other pine
+Other poplar
+Other softwoods
+Other spruce
+Pacific willow
+Peachleaf willow
+Pin cherry
+Pin oak
+Pine
+Pine- Genus Type
+Pitch pine
+Ponderosa pine
+Poplar- Genus Type
+Poplar/aspen
+Pumpkin ash
+Red alder
+Red and white spruce
+Red ash
+Red hickory
+Red maple
+Red mulberry
+Red oak
+Red pine
+Red spruce
+Rock elm
+Rocky Mountain juniper
+Sassafras
+Scots pine
+Serviceberry
+Shagbark hickory
+Shellbark hickory
+Shining willow
+Shore pine
+Shumard oak
+Silver maple
+Sitka alder
+Sitka spruce
+Slippery elm
+Softwood Forest Type
+Spruce
+Spruce and balsam fir
+Spruce- Genus Type
+Staghorn sumac
+Striped maple
+Subalpine fir (or alpine fir)
+Subalpine larch
+Sugar and black maple
+Sugar maple
+Swamp white oak
+Sycamore
+Tamarack
+Tamarack/larch
+Tamarck and cedar
+Tolerant hardwoods
+Trembling aspen
+Tulip-tree
+Unspecified broad-leaved species- Genus Type
+Unspecified conifirs- Genus Type
+Unspecified hardwood species
+Unspecified softwood species
+Upland hardwoods other than sugar maple
+Walnut
+Western and mountain hemlock
+Western flowering dogwood
+Western hemlock
+Western larch
+Western red-cedar
+Western white pine
+Western Yew
+White ash
+White birch
+White birch & Alaska white birch
+White elm
+White oak
+White spruce
+Whitebark and limber pine
+Whitebark pine
+Willow
+Yellow birch
+Yellow cypress
+Yew
